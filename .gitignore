@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment (DO NOT UPLOAD THIS)
+gpt_env/
+venv/
+env/
+
+# Checkpoints (Too large for GitHub)
+checkpoints/*.pt
+# Keep the folder structure though
+!checkpoints/.gitkeep
+
+# Data Cache
+data_cache/
+
+# Logs
+logs/*.log
+
+# VS Code settings
+.vscode/

@@ -1,0 +1,5 @@
+{
+  "test_loss": 2.978688783115811,
+  "test_perplexity": 19.662018564300507,
+  "checkpoint": "./checkpoints/best_model.pt"
+}
