@@ -18,6 +18,8 @@ A clean, educational, and interpretable implementation of **GPT-2** built from s
 
 We successfully trained a **GPT-2 Small (124M)** model on the **WikiText-103** dataset using 4x NVIDIA V100 GPUs.
 
+![Training Curves](checkpoints/training_curves.png)
+
 | Metric | Our Result | Official GPT-2 Small |
 |--------|------------|----------------------|
 | **Parameters** | **124M** | 124M |
